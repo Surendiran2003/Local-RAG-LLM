@@ -50,6 +50,9 @@ you can see the *OpenWebUi* start with a login for creating an admin which also 
 - Use `docker-compose up -d` to bring up the rag app on [http://localhost:5000/](localhost:5000)
 - You can upload file and ask query related to that file the app *Retrieves* the query sementic from the pdf which is uploaded and make a prompt before prompt which is noting but *Augument* and the llm will generate the answer is know a *Generation*.
 
+<br/>
+
+![alt text](images/app.png)
 ## References
 
 * [https://ollama.com/](https://ollama.com/)
