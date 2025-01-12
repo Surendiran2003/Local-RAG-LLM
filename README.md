@@ -42,7 +42,7 @@ you can see the *OpenWebUi* start with a login for creating an admin which also 
 
 <br/>
 
-- ![alt text](<Screenshot 2024-12-27 at 19-23-07 🎨 Kid's Art Organization Idea... Open WebUI.png>)
+- ![alt text](<images/Screenshot 2024-12-27 at 19-23-07 🎨 Kid's Art Organization Idea... Open WebUI.png>)
 
 ## Setting up Basic RAG GenAI Application:
 
