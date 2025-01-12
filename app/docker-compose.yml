@@ -1,0 +1,13 @@
+services:
+  app: 
+    build: . # Build the application from current directory using the Dockerfile
+    ports:
+      - "5000:5000" # Expose the application using port 5000
+    volumes:
+      - .:/app # Mount the current directory to /app in the container
+    networks:
+      - genai-network
+networks:
+  genai-network:
+    name: genai-network
+    external: true
