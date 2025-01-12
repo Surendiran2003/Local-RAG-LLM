@@ -7,7 +7,7 @@ Do you want to do experiment with LLM's and make it run on your computer and als
 - NVIDIA GPU - For GPU use, otherwise we will use CPU
 - *Python* version 3
 - Also ensure you have enough disk space of above 15GB and better if 20% of your overall disk space is empty
-- git to clone the following repo 
+- git to clone the following repo `git clone https://github.com/Surendiran2003/Local-RAG-LLM.git`
 
 ### Install ollama :
 -> `cd local_llm/ollama`
@@ -35,7 +35,7 @@ replace the *ollama_ollama_1* with you container name you can see using `docker-
 
 <br/>
 
-![alt text](Screenshot_20250107_200933.png)
+![alt text](images/Screenshot_20250107_200933.png)
 
 - [http://localhost:3000/](localhost:8080)
 you can see the *OpenWebUi* start with a login for creating an admin which also stores locally and enjoy your chat with your local LLM model.
