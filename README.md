@@ -1,5 +1,7 @@
 # A Guide to setup & make LLM's to run locally and use it for Building GenAI Applications like RAG(Retrival Augumented Gentration)
 
+RAG-ing Towards Privacy & Personalized Open Source Chatbot](https://blog.fshm.org/fshm-weekly-12-01-2025-rag-ing-towards-privacy-personalized-open-source-chatbot-2/)
+
 Do you want to do experiment with LLM's and make it run on your computer and also use it for building GenAI Applications? Then check out OLLAMA a platform that let us to do all these and more in an optimized way.
 
 ### Pre-Requrities for setting up:
